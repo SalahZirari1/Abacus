@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Cheato/AndroidStudioProjects/ProjectM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Users/Cheato/AndroidStudioProjects/ProjectM/app/src/main/res/drawable/roundedbutton.xml" value="0.336" />
+        <entry key="..\:/Users/Cheato/AndroidStudioProjects/ProjectM/app/src/main/res/layout/activity_difficulty_page.xml" value="0.25" />
+        <entry key="..\:/Users/Cheato/AndroidStudioProjects/ProjectM/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Cheato/AndroidStudioProjects/ProjectM/app/src/main/res/layout/activity_result_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable-hdpi/button_shape_equations.xml" value="0.3615" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/button_shape.xml" value="0.25" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/chrono_shape.xml" value="0.3675" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/difficulty_icon.xml" value="0.3565" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/douwara.xml" value="0.25" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/douwara_orange.xml" value="0.3615" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/easybtn_shape.xml" value="0.3615" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/editext_shape.xml" value="0.3015" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/gradiant_blue.xml" value="0.3615" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/hardbtn_shape.xml" value="0.3615" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.3615" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/ic_baseline_clear_all_24.xml" value="0.1165" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.3395" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3615" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/mediumbtn_shape.xml" value="0.3615" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_difficulty_page.xml" value="0.33" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_equations_game.xml" value="0.33" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_games_page.xml" value="0.25" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_result_page.xml" value="0.33" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_scores_page.xml" value="0.22" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_user_chooser.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/lstv_layout.xml" value="0.23157894736842105" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM/app/src/main/res/layout/activity_difficulty_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM/app/src/main/res/layout/activity_games_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM/app/src/main/res/layout/activity_result_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM/app/src/main/res/layout/activity_scores_page.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Cheato/Desktop/ProjectM/app/src/main/res/layout/lstv_layout.xml" value="0.2" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/douwaraOrange.xml" value="0.14" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.14" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_difficulty_page.xml" value="0.2" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_equations_game.xml" value="0.176" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_games_page.xml" value="0.2" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_main.xml" value="0.12397540983606557" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_result_page.xml" value="0.2" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_scores_page.xml" value="0.12397540983606557" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/activity_user_chooser.xml" value="0.12397540983606557" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/layout/lstv_layout.xml" value="0.12397540983606557" />
+        <entry key="..\:/Users/mugin/Desktop/ProjectM - EVOLVED/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.144" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

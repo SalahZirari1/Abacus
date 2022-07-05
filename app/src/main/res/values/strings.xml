@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Abacus</string>
+    <string name="equal">&#61;</string>
+    <string name="lessThan">&#60;</string>
+    <string name="greaterThan">&#62;</string>
+    <string-array name="levels">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
